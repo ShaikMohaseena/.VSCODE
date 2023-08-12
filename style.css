@@ -1,0 +1,34 @@
+*{
+         color: blue;
+ } 
+ 
+ 
+ button{
+    color: brown;
+    background-color: cyan;
+ }
+
+ #headingOne{
+    color:greenyellow;
+ }
+
+ #headingTwo{
+    color:chocolate;
+ }
+
+ .myclass{
+    color:magenta;
+   
+ }
+
+ body{
+    background-color: black;
+ }
+
+ p{
+    color:rgb(130, 200, 15);
+    background-color: #03f4fc;
+    font-size: x-large;
+ }
+
+ 
